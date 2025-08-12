@@ -2,19 +2,6 @@
 
 Project ini adalah contoh **UI Automation Testing** menggunakan **JavaScript**, **Mocha**, dan **Selenium WebDriver** untuk menguji website [SauceDemo](https://www.saucedemo.com).
 
-## 📂 Struktur Project
-
-├── mochawesome-report # Report hasil testing (Mocha + Mochawesome)
-├── node_modules # Dependency project
-├── pages # Page Object Model (POM) files
-├── test # Test scripts
-│ ├── sesi9.js
-│ ├── sesi10.js
-│ └── sesi11.js
-├── package.json # Konfigurasi project & dependency
-├── package-lock.json
-└── README.md
-
 ## 🚀 Teknologi yang Digunakan
 - **Node.js** & **npm**
 - **Mocha** (Test runner)
